@@ -1,2 +1,2 @@
 # geek-Data-base
-Репозиторий для сдачи дз в Geekuniversity
+Репозиторий для сдачи дз в GeekBrains
